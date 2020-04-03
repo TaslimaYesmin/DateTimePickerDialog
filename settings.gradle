@@ -1,0 +1,2 @@
+rootProject.name='Date Time Picker Dialog'
+include ':app'
